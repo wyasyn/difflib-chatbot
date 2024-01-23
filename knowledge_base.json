@@ -155,6 +155,38 @@
         {
             "question": "How can I start a career in web development?",
             "answer": "Starting a career in web development involves learning the basics and building a strong portfolio. Consider taking online courses like the Meta frontend course to kickstart your journey."
+        },
+        {
+            "question": "How much do you charge for your work?",
+            "answer": "Please contact me, we can discuss!"
+        },
+        {
+            "question": "What is your pricing structure for your services?",
+            "answer": "Feel free to reach out, and we can have a discussion about pricing details."
+        },
+        {
+            "question": "Could you provide information on the cost of your services?",
+            "answer": "I'd be happy to discuss pricing with you. Please get in touch!"
+        },
+        {
+            "question": "What are your fees for the services you offer?",
+            "answer": "Let's connect, and we can go over the details regarding pricing."
+        },
+        {
+            "question": "Can you share details about the charges associated with your work?",
+            "answer": "Feel free to contact me, and we can talk about the specifics of pricing."
+        },
+        {
+            "question": "I'm interested in your services. What can you tell me about your pricing?",
+            "answer": "Reach out to me, and we can have a conversation to determine the most suitable pricing for your needs."
+        },
+        {
+            "question": "Are your rates fixed, or do they vary based on the type of work?",
+            "answer": "Let's have a conversation about your requirements, and we can work out a pricing structure that fits your needs."
+        },
+        {
+            "question": "How is the cost of your work determined, and what factors are taken into consideration?",
+            "answer": "I'm open to discussing pricing details with you. Please get in touch, and we can go over the specifics."
         }
     ]
 }
